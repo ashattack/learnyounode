@@ -1,10 +1,10 @@
 # learnyounode
 code for [learnyounode](https://github.com/workshopper/learnyounode) from [nodeschool](https://nodeschool.io/index.html#workshopper-list)
 
-## directoins
-### intsalling nvm and node
+## directions
+### installing nvm and node
 ```
-echo 'fist install nvm with a bash script from it's website'
+echo 'first install nvm with a bash script from it's website'
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 
