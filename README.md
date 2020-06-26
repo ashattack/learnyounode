@@ -45,6 +45,24 @@ git commit -m "completed first challenge"
 git push
 ```
 
+## Exercises 
+```
+ashlyn@thisisavirus:~/Git/learnyounode$ learnyounode list
+HELLO WORLD
+BABY STEPS
+MY FIRST I/O!
+MY FIRST ASYNC I/O!
+FILTERED LS
+MAKE IT MODULAR
+HTTP CLIENT
+HTTP COLLECT
+JUGGLING ASYNC
+TIME SERVER
+HTTP FILE SERVER
+HTTP UPPERCASERER
+HTTP JSON API SERVER
+```
+
 ## Markdown
 > this is a quote
 - list 
